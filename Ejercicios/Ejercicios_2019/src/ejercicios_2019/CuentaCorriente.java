@@ -55,7 +55,7 @@ public class CuentaCorriente {
     }
     
     public String mostrarCad(){
-        String cad="Nombre: "+nombre+" DNI: "+dni+ " Saldo: "+saldo+" Límite: "+limite;
+        String cad="Nombre: "+nombre+", DNI: "+dni+ ", Saldo: "+saldo+", Límite: "+limite;
         return cad;
     }
 
